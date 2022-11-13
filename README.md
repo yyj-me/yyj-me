@@ -8,16 +8,19 @@
 
 <p>
   Hi! ✋ I am a software engineer using Java and Spring Framework. <br/>
-  I have 10+ years experience of web development of various system such as a national tax services, an e-commece, collaboration tools for software development and so on.<br/>
+  I have 10+ years experience of web development projects for developing a national tax services, an e-commece, collaboration tools for software development and so on.<br/>
   Recently, I am working as a backend developer and leading development team at GIGPLANNER. 😀<br/> 
   I love the "Agile" development and writing unit test codes. 💻
 </p>
 
 ## 💻 Skills
 <p>
+    <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
