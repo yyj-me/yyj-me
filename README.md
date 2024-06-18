@@ -14,6 +14,6 @@
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=black"/>
 </p>
